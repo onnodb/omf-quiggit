@@ -30,8 +30,8 @@ $ quiggit
 
 
 [mit]:            https://opensource.org/licenses/MIT
-[author]:         https://github.com/{{USER}}
-[contributors]:   https://github.com/{{USER}}/plugin-quiggit/graphs/contributors
+[author]:         https://github.com/onnodb
+[contributors]:   https://github.com/onnodb/omf-quiggit/graphs/contributors
 [omf-link]:       https://www.github.com/oh-my-fish/oh-my-fish
 
 [license-badge]:  https://img.shields.io/badge/license-MIT-007EC7.svg?style=flat-square
